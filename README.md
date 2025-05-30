@@ -1,9 +1,10 @@
 # Testing .NET 10.0
 
-## New features
+## New Features
+
 - Pattern matching using new operators such as `not`, `or`, and `and`.
 - Enhanced `switch` expression with pattern matching support.
-- Tesing new features of .NET 10.0 (preview 4, build 25258.110) in VS Code.
+- Testing new features of .NET 10.0 (Preview 4, build 25258.110) in VS Code.
 
 ## Requirements
 
@@ -12,6 +13,6 @@
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 &copy; TrtxP, 2025
